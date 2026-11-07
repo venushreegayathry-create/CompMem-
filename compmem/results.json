@@ -1,0 +1,16 @@
+{
+  "random_baseline_both": 0.05,
+  "test_recall_both_MIH": 0.4,
+  "test_recall_per_gold_MIH": 0.661,
+  "final_epoch_recall_bruteforce": 0.3799999952316284,
+  "keep_r_mean": {
+    "gold": 0.3041054308414459,
+    "distractor": 0.229994535446167,
+    "smalltalk": 0.034081924706697464
+  },
+  "keep_auc": 0.7835401428571428,
+  "bit_imbalance": 0.16637499630451202,
+  "n_train": 3000,
+  "n_test": 500,
+  "embedder": "minilm"
+}
